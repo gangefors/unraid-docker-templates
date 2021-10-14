@@ -18,5 +18,5 @@
     <Config Type="Port" Name="udp" Description="21248/udp" Target="21248" Default="21248" Mode="udp">21248</Config>
     <Config Type="Port" Name="tls" Description="21249/tcp" Target="21249" Default="21249" Mode="tcp">21249</Config>
     <Category>File sharing:Direct Connect</Category>
-    <Support>https://github.com/gangefors/docker-airdcpp-webclient/issues</Support>
+    <Support>https://github.com/gangefors/unraid-docker-templates/issues</Support>
 </Container>
